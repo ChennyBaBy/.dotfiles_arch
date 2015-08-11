@@ -2,3 +2,6 @@
 .config/deluge
 .config/gtk-2.0
 .config/menus
+logs
+*.sql
+database
