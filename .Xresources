@@ -19,7 +19,8 @@ urxvt*colorBD:          #9a7b88
 !URxvt*shading:          80
 !URxvt*geometry:        80x17
 
-URxvt.font: xft:Monospace:size=11,xft:WenQuanYi Bitmap Song:pixelsize=12
+URxvt.font: xft:Source Han Sans:pixelsize=12:antialias=true
+URxvt.imLocale: zh_HK.utf8
 
 !black
 URxvt*color0:           #111313
